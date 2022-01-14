@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Asistensi Mobile 1918105</string>
+    <string name="button_label_genap">Genap</string>
+    <string name="button_label_ganjil">Ganjil</string>
+    <string name="count_initial_value">0</string>
+
+</resources>
+
+
